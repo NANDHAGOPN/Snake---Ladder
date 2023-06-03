@@ -3,4 +3,4 @@ A nostalgic childhood game
 
 
 
-view livelt on - https://nandhagopn.github.io/Snake---Ladder/ 
+view lively on - https://nandhagopn.github.io/Snake---Ladder/ 
